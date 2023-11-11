@@ -1,0 +1,31 @@
+{
+  "name": "24",
+  "displayName": "24",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "24",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24-color-theme.json"
+      },
+      {
+        "label": "24.2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24.2-color-theme.json"
+      },
+      {
+        "label": "24.3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24.3-color-theme.json"
+      }
+    ]
+  }
+}
